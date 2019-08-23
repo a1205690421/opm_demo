@@ -40,7 +40,7 @@
         </div>
         <div class="clearfix"></div>
         <div class="copyright">
-          <p>Copyright © 2018 by Gavin <a href="https://github.com/PowerDos"><Icon type="social-github"></Icon></a> <span>本项目仅供学习参考</span></p>
+          <p>Copyright © 2019-2020 by Beimeng <a href="https://github.com/a1205690421/opm_demo"><Icon type="social-github"></Icon></a> <span></span></p>
         </div>
       </div>
     </footer>

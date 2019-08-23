@@ -7,9 +7,9 @@
     <!-- 商品显示区域 -->
     <div class="content">
       <!-- 秒杀 -->
-      <div class="seckill">
+      <!-- <div class="seckill"> -->
         <!-- 头部 -->
-        <div class="seckill-head">
+        <!-- <div class="seckill-head">
           <div class="seckill-icon">
             <img src="static/img/index/clock.png">
           </div>
@@ -26,9 +26,9 @@
             <span class="count-down-num count-down-seconds">{{ seckillsSeconds }}</span>
             <span class="count-down-text">后结束抢购</span>
           </div>
-        </div>
+        </div> -->
         <!-- 内容 -->
-        <div class="seckill-content">
+        <!-- <div class="seckill-content">
           <div class="seckill-item" v-for="(item, index) in seckills.goodsList" :key="index">
             <div class="seckill-item-img">
               <router-link to="/goodsList"><img :src="item.img"></router-link>
@@ -41,8 +41,8 @@
               </p>
             </div>
           </div>
-        </div>
-      </div>
+        </div> -->
+      <!-- </div> -->
       <!-- 电脑专场 -->
       <div class="item-class">
         <div class="item-class-head">
@@ -84,7 +84,7 @@
         </div>
       </div>
       <!-- 爱吃专场 -->
-      <div class="item-class">
+      <!-- <div class="item-class">
         <div class="item-class-head item-class-eat-head">
           <span class="item-class-title">{{eat.title}}</span>
           <ul>
@@ -120,7 +120,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>
