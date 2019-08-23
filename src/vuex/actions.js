@@ -41,8 +41,8 @@ export const loadSeckillsInfo = ({ commit }) => {
     // 距离开始秒杀时间
     const deadline = {
       hours: 1,
-      minute: 38,
-      seconds: 36
+      minute: 59,
+      seconds: 59
     };
     commit('SET_SECKILLS_INFO', [data, deadline]);
   });

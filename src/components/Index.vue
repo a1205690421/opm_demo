@@ -1,7 +1,9 @@
 <template>
   <div class="container">
     <Search></Search>
-    <HomeNav></HomeNav>
+    <!-- <HomeNav></HomeNav> -->
+    <!-- 商品分类显示与否 -->
+    
     <!-- 商品显示区域 -->
     <div class="content">
       <!-- 秒杀 -->
